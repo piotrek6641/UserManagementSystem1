@@ -3,6 +3,7 @@
 Ban middleware not implement yet </br>
 Login/register system created with Laravel brezze </br>
 <span> all user data created using fake function </span>
+<span> To run this you need local server, php, sql server and run laravel migration </span>
  <h3>Show all users view </h3>
  
 ![Screenshot 1](/screenshots/Screenshot1.png) 
