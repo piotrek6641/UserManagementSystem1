@@ -4,6 +4,8 @@ Ban middleware not implement yet </br>
 Login/register system created with Laravel brezze </br>
 <span> all user data created using fake function </span>
 
-![Screenshot from 2022-11-09 11-38-20](/screenshots/Screenshot1.png) 
+![Screenshot 1](/screenshots/Screenshot1.png) 
 
+![Screenshot 2](/screenshots/Screenshot2.png) 
 
+![Screenshot 3](/screenshots/Screenshot3.png) 
